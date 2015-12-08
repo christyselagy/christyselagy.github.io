@@ -14,10 +14,6 @@ body {
 font-family: 'Merriweather', serif;
 }
 
-div.dropdown-wrapper {
-    position: relative;
-    height: 100%;
-}
 a.dropdown-toggle {
     height: 100%;
     display: block;
